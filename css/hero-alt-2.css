@@ -1,0 +1,78 @@
+html, body{
+
+	font-family: 'Creepster', cursive;
+	margin: 0;
+}
+
+header{
+
+	background-color: #4c2756;
+	background-image: url('../img/halloweentown.jpeg');
+	padding: 40px;
+	text-align: center;
+}
+
+h1{
+
+	font-size: 90px;
+	color: white;
+	text-shadow: 0 4px 20px black;
+}
+
+h2{
+	font-size: 60px;
+	color:#fc0505;
+	text-shadow: 0 4px 20px #840b0b;
+}
+
+header img{
+	border-radius: 200px;
+	width: 500px;
+	border: 10px solid #0c2368;
+	box-shadow: 0 10px 20px black;
+
+}
+
+.content{
+
+	max-width: 900px;
+	margin: 0 auto;
+	padding: 0 20px;
+}
+
+img.big-image{
+	max-width: 100%;
+	
+}
+
+p.caption{
+	font-size: 16px;
+	color: lightgrey;
+	font-size: italic;
+}
+
+ul{
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+
+a{
+	color: #8e0808;
+	text-decoration: none;
+}
+
+footer{
+	margin-top: 20px;
+	padding: 40px 20px;
+	background-color: #00000099;
+}
+
+footer ul{
+	text-align:center;
+}
+
+footer ul li{
+	display: inline-block;
+	margin: 0px 5px
+}
