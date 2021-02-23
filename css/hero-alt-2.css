@@ -40,7 +40,7 @@ header img{
 	padding: 0 20px;
 }
 
-img.big-image{
+.big-image{
 	max-width: 100%;
 	
 }
@@ -63,10 +63,14 @@ a{
 	text-decoration: none;
 }
 
+p, li {
+	font-size: 30px;
+}
+
 footer{
 	margin-top: 20px;
 	padding: 40px 20px;
-	background-color: #00000099;
+	background-color: #4c2756;
 }
 
 footer ul{
